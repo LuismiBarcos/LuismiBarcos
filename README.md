@@ -8,7 +8,7 @@
 - Experienced in **Java backend integrations**.
 - Currently learning the **foundations of Functional Programming** and diving deeper into **Kotlin** in my free time.
 - Enthusiastic about **clean code, maintainable architectures, and knowledge sharing** through blogs and talks.
-- Currently working at **@Celonis** in **@LuismiBarcosCelonis**
+- Currently working at **[@Celonis](https://github.com/celonis)** in **[@LuismiBarcosCelonis](https://github.com/LuismiBarcosCelonis)**
 
 ---
 
