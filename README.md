@@ -30,9 +30,11 @@
 ![Git](https://img.shields.io/badge/Git-f05133?style=for-the-badge&logo=git&logoColor=orange&labelColor=101010)
 
 ## ✍️ Blog Posts
-- [Keep Git History Clean](https://careers.celonis.com/blog/keep-git-history-clean)
-- [Liferay Screens Meets React Native: The Sequel](https://liferay.dev/blogs/-/blogs/liferay-screens-meets-react-native-the-sequel)
-- [LiferayPhotos: A Fully Functional App in 10 Days](https://liferay.dev/blogs/-/blogs/liferayphotos-a-fully-functional-app-in-10-days-using-liferay-screens-final-part-development-experience-)
+- [My Personal Blog](https://luismibarcos.com/posts/)
+- Other posts:
+  - [Keep Git History Clean](https://careers.celonis.com/blog/keep-git-history-clean)
+  - [Liferay Screens Meets React Native: The Sequel](https://liferay.dev/blogs/-/blogs/liferay-screens-meets-react-native-the-sequel)
+  - [LiferayPhotos: A Fully Functional App in 10 Days](https://liferay.dev/blogs/-/blogs/liferayphotos-a-fully-functional-app-in-10-days-using-liferay-screens-final-part-development-experience-)
 
 ---
 
