@@ -40,8 +40,9 @@
 
 ## 🎤 Talks
 
-- **Click to REST - From no code to a REST API** – [Conference talk (YouTube)](https://www.youtube.com/watch?v=Eszsvl1qZKk&t=4130s)
-- **Fantastic Liferay APIs and where to find them** - [Conference talk (YouTube)](https://www.youtube.com/watch?v=PSxgzOfDe1Y&t=17166s)
+- **Getting Software Done: A Stress-Free Guide** - [GDG DevFest Madrid 2025](https://gdg.community.dev/events/details/google-gdg-madrid-presents-devfest-madrid-2025/)
+- **Click to REST - From no code to a REST API** – Liferay Dev/24, 2022 - [Conference talk (YouTube)](https://www.youtube.com/watch?v=Eszsvl1qZKk&t=4130s)
+- **Fantastic Liferay APIs and where to find them** - Liferay Dev/24, 2021 - [Conference talk (YouTube)](https://www.youtube.com/watch?v=PSxgzOfDe1Y&t=17166s)
 ---
 
 ## 📂 Some Projects
